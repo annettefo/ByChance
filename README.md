@@ -11,6 +11,4 @@ Technology used
 
 4. HTML5/CSS
 
-Work in Progress
-
-Disrupting the dating game altogether
+Work in Progress. Found geolocation is best utilized on mobile device. Converting to iOS application.
